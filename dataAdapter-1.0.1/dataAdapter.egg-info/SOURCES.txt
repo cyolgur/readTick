@@ -1,0 +1,7 @@
+setup.py
+dataAdapter/__init__.py
+dataAdapter/mysqlAdapter.py
+dataAdapter.egg-info/PKG-INFO
+dataAdapter.egg-info/SOURCES.txt
+dataAdapter.egg-info/dependency_links.txt
+dataAdapter.egg-info/top_level.txt
